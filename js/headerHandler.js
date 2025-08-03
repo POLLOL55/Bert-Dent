@@ -1,1 +1,1 @@
-document.getElementById('header').load("./common-HTML/header.html")
+$(function(){$("#header").load("./commonHTML/header.html"); }); // loading header HTML into divsa with the header id
