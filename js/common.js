@@ -1,1 +1,0 @@
-import onLoad from "./onLoadHanlder.js"

@@ -1,1 +1,0 @@
-$(function(){$("#footer").load("./commonHTML/footr.html"); }); // loading header HTML into divsa with the header id
